@@ -1,1 +1,1 @@
-This Is A Repositriory For Learning Git.
+This Is A Repository For Learning Git.
